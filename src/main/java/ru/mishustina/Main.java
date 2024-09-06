@@ -2,7 +2,7 @@ package ru.mishustina;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println(getMessage());
     }
 
     private static String getMessage() {
